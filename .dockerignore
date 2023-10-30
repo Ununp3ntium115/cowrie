@@ -1,5 +1,2 @@
-.direnv
-.tox
-.git
-.github
-.eggs
+Dockerfile
+charts/
