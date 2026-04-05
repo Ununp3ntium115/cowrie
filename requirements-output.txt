@@ -38,3 +38,5 @@ pymisp==2.4.176
 # redis
 redis==5.0.1
 
+aiohttp>=3.13.4 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
